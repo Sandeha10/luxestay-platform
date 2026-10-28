@@ -1,0 +1,32 @@
+export const translations = {
+  'English (US)': {
+    hostSanctuary: 'Host a Sanctuary',
+    featuredResidences: 'Featured Residences',
+    curatedPortfolio: 'Curated Portfolio',
+    sanctuariesAvailable: 'Sanctuaries Available',
+    night: '/ night',
+    verifiedSanctuary: 'Verified Sanctuary',
+    searchTitle: 'Exceptional homes for unforgettable moments.',
+    searchSubtitle: 'Curated cliffside villas, modern sky penthouses, and tranquil estates engineered for ultimate stillness.',
+  },
+  'Français': {
+    hostSanctuary: 'Héberger un Sanctuaire',
+    featuredResidences: 'Résidences Vedettes',
+    curatedPortfolio: 'Portfolio Curaté',
+    sanctuariesAvailable: 'Sanctuaires Disponibles',
+    night: '/ nuit',
+    verifiedSanctuary: 'Sanctuaire Vérifié',
+    searchTitle: 'Des maisons exceptionnelles pour des moments inoubliables.',
+    searchSubtitle: 'Villas de falave curées, penthouses sky modernes et domaines tranquilles conçus pour le calme ultime.',
+  },
+  'Deutsch': {
+    hostSanctuary: 'Ein Refugium hosten',
+    featuredResidences: 'Ausgewählte Residenzen',
+    curatedPortfolio: 'Kuratiertes Portfolio',
+    sanctuariesAvailable: 'Verfügbare Refugien',
+    night: '/ Nacht',
+    verifiedSanctuary: 'Geprüftes Refugium',
+    searchTitle: 'Außergewöhnliche Häuser für unvergessliche Momente.',
+    searchSubtitle: 'Kuratierte Klippenvillen, moderne Sky-Penthouses und ruhige Anwesen für absolute Ruhe.',
+  },
+};
