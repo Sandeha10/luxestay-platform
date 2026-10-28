@@ -23,17 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Dependencies
-node_modules/
-.pnpm-store/
-
-# Environment Variables (Never commit these!)
-
-frontend/.env
-frontend/.env.*
-
-# Production builds & caches
-dist/
-build/
-.cache/
-*.log
