@@ -147,4 +147,3 @@ Orchestrated Launch (Docker Compose):
         POST   /api/v1/payments/checkout-session/:bookingId   Initialize Stripe checkout
 
 
-<FollowUp label="Would you like me to help you push this updated README to your GitHub repository now?" query="How do I commit and push this updated README.md to GitHub?"/>
